@@ -160,5 +160,5 @@ while True:
         # get the current screen
         ts = turtle1.getscreen()
         # save the drawing to a post script
-        ts.getcanvas().postscript(file="fun.eps")
+        ts.getcanvas().postscript(file="art_save.eps")
         m += 50
